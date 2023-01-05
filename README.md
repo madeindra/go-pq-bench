@@ -125,5 +125,5 @@ This is how you read the reports above:
 - `14 allocs/op` is the average number of allocations per iteration.
 
 ### Reference
-Alex Edwards - [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb).
-Logrocket - [Benchmarking in Golang: Improving function performance](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/).
+- Alex Edwards - [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb).
+- Logrocket - [Benchmarking in Golang: Improving function performance](https://blog.logrocket.com/benchmarking-golang-improve-function-performance/).
